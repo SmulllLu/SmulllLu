@@ -1,1 +1,1 @@
-# Helllo, I'm Smulll
+# Hello, I'm Smulll
